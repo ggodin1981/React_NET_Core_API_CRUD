@@ -1,4 +1,4 @@
-# Product Inventory Application using .NET Core 6 and React JS with CRUD Operations
+# Product Inventory Application using .NET Core 6 and React JS with CRUD Operations Full Stack Developer .Net Core
 
 Introduction
 In this article, we will create a product management web API with CRUD operations using .NET Core 6 and different forms with the help of React JS.
