@@ -1,1 +1,1 @@
-# Product Inventoru Application using .NET Core 6 and React JS with CRUD Operations
+# Product Inventory Application using .NET Core 6 and React JS with CRUD Operations
